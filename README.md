@@ -40,3 +40,10 @@ Run:
 ## Screenshot
 
 ![Screenshot](https://github.com/MauroEldritch/mime/blob/master/media/Mime.png "Screenshot")
+
+
+## Conferences
+
+|#| Date | Conference | Video | Slides |
+|---|---|---|---|---|
+|1| JAN-2021 | Bsides Panamá | - | https://docs.google.com/presentation/d/1KaydJmaMvRgijMzEkG_ERjLYirWhqnSgpqO3v7sU8zM/edit?usp=sharing
