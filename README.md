@@ -10,7 +10,8 @@ A simple Proof-Of-Concept is available (`jacket.sh`). It will run specific voice
 The full tool, `Mime.rb`, allows the user to run pre-flight checks on the environment and specify samples to inject.
 
 Also, an installation script for Mycroft (Docker-based) is available on the `bin/` folder.
-As a disclaimer, I want to say that Mycroft is secure project. Mime does not exploits a vulnerability on it, but takes advantage of the underlying OS functionalities to execute this attack.
+
+As a disclaimer, I want to say that **Mycroft is a secure project**. Mime does not exploits a vulnerability on it, but takes advantage of the underlying OS functionalities to execute this attack.
 This talk was written as an experimental research so expect heavy changes to occur, and new voice assistants to be added.
 
 
